@@ -1,5 +1,5 @@
  ![MasterHead](https://media.licdn.com/dms/image/D4D1BAQFqFYxDHiEzdg/company-background_10000/0/1659776486498/dotnet_openings_cover?e=2147483647&v=beta&t=6ra3TdvoKiJON_aGCt40XvuVnuqwB1cr7ZZThF6Zvqo)
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h1 align="center">Hi 👋, I'm Hamza Dursun</h1>
 - 📫 How to reach me **hmzdrsn64@gmail.com** <br>
 - 🔭 I’m currently working with .NET and Angular frameworks.
 <h3 align="left">Connect with me:</h3>
